@@ -1,18 +1,10 @@
 export const nav = [
 	{
-		title: 'Home',
+		title: '主页',
 		slug: '/',
 	},
 	{
-		title: 'Blog',
+		title: '活动',
 		slug: '/blog',
-	},
-	{
-		title: 'About',
-		slug: '/company/about',
-	},
-	{
-		title: 'Contact',
-		slug: '/company/contact',
 	},
 ];
